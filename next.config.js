@@ -4,7 +4,6 @@
 //   swcMinify: true,
 // }
 
-// module.exports = nextConfig
 
 module.exports = {
   images: {
